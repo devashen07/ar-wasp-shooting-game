@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{EDBD63ED-A249-2393-5FC5-0A5F97451143}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9fddc7f7-b712-4c9e-b987-e18b4cba9b1a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_PROJECT/Scripts/CollisionController.cs">
+    <Files>
+      <File FileName="Assets/_PROJECT/Scripts/WebCamController.cs" Line="55" Column="15" />
+      <File FileName="Assets/_PROJECT/Scripts/WaspController.cs" Line="31" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.render-pipelines.universal@7.3.1/Editor/ShaderGraph/SubShaders/UniversalPBRSubShader.cs" Line="9" Column="1" />
+      <File FileName="Assets/_PROJECT/Scripts/CollisionController.cs" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="unity-ar-shooting-game" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
